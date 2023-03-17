@@ -24,7 +24,7 @@ function login() {
     // Check if email and password match stored values in local storage            
     if (localStorage.getItem(email) && JSON.parse(localStorage.getItem(email)).password === password) {
         // Redirect to success page                
-        window.location.href = "Calculator/Calci.html";
+        window.location.href = "#";
         return false;
     } 
     else {
