@@ -1,2 +1,2 @@
-# Transition-Login-Sign-Up-Page-with-Local-Storage-Feature
-Transition Login Sign Up Page with Local Storage Feature
+# Animated-Login-&-Sign-Up-Page-with-Local-Storage-Feature
+Animated Login & Sign Up Page with Local Storage Feature
